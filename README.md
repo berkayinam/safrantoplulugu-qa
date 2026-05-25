@@ -1,6 +1,6 @@
 # safrantoplulugu-qa
 
-# Website Şuanlık bu adreste : https://berkayinam.github.io/ : 
+# Website Şuanlık burda : https://berkayinam.github.io/
 
 # 📚 Safran Ar-Ge — Doküman Envanteri
 > Güncelleme: 25 Mayıs 2025 · Toplam: 21 PDF + 15 DOCX + 2 XLSX + web kaynaklı 2 makale
